@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\assignment_3\perimeter\bin\Debug\netcoreapp2.0\perimeter.deps.json
+C:\Users\Administrator\Desktop\assignment_3\perimeter\bin\Debug\netcoreapp2.0\perimeter.runtimeconfig.json
+C:\Users\Administrator\Desktop\assignment_3\perimeter\bin\Debug\netcoreapp2.0\perimeter.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\assignment_3\perimeter\bin\Debug\netcoreapp2.0\perimeter.dll
+C:\Users\Administrator\Desktop\assignment_3\perimeter\bin\Debug\netcoreapp2.0\perimeter.pdb
+C:\Users\Administrator\Desktop\assignment_3\perimeter\obj\Debug\netcoreapp2.0\perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\assignment_3\perimeter\obj\Debug\netcoreapp2.0\perimeter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\assignment_3\perimeter\obj\Debug\netcoreapp2.0\perimeter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\assignment_3\perimeter\obj\Debug\netcoreapp2.0\perimeter.dll
+C:\Users\Administrator\Desktop\assignment_3\perimeter\obj\Debug\netcoreapp2.0\perimeter.pdb
