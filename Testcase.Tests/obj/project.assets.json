@@ -5640,11 +5640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\assignment_3\\Testcase.Tests\\Testcase.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\dotnet assignments\\assignment_3\\Testcase.Tests\\Testcase.Tests.csproj",
       "projectName": "Testcase.Tests",
-      "projectPath": "c:\\Users\\Administrator\\Desktop\\assignment_3\\Testcase.Tests\\Testcase.Tests.csproj",
+      "projectPath": "c:\\Users\\Administrator\\Desktop\\dotnet assignments\\assignment_3\\Testcase.Tests\\Testcase.Tests.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Administrator\\Desktop\\assignment_3\\Testcase.Tests\\obj\\",
+      "outputPath": "c:\\Users\\Administrator\\Desktop\\dotnet assignments\\assignment_3\\Testcase.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5661,8 +5661,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\Administrator\\Desktop\\assignment_3\\perimeter\\perimeter.csproj": {
-              "projectPath": "c:\\Users\\Administrator\\Desktop\\assignment_3\\perimeter\\perimeter.csproj"
+            "c:\\Users\\Administrator\\Desktop\\dotnet assignments\\assignment_3\\perimeter\\perimeter.csproj": {
+              "projectPath": "c:\\Users\\Administrator\\Desktop\\dotnet assignments\\assignment_3\\perimeter\\perimeter.csproj"
             }
           }
         }

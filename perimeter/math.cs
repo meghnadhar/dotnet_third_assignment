@@ -5,9 +5,9 @@ namespace Calculation{
 
 public class Maths{
 
-    Rectangle rt =new Rectangle();
-    Square sq = new Square();
-    Triangle tg =new Triangle();
+    Rectangle_Peri rt =new Rectangle_Peri();
+    Square_Peri sq = new Square_Peri();
+    Triangle_Peri tg =new Triangle_Peri();
 
     public Maths(float len,float bdth){
         rt.Length=len;

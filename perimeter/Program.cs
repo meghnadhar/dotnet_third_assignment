@@ -16,7 +16,7 @@ namespace perimeter
                 len=float.Parse(Console.ReadLine());
                 bdth=float.Parse(Console.ReadLine());
                 if(len<=0 || bdth<=0){
-                    Console.WriteLine("Length and Breadth should not be negative");
+                    Console.WriteLine("Length and Breadth should not be zero or negative");
                 }
                else{ Maths obj1= new Maths(len,bdth);
                 float peri1=obj1.Cal_Perimeter(len,bdth);
@@ -26,7 +26,7 @@ namespace perimeter
                Console.WriteLine("Enter the side of the square: ");
                 s=float.Parse(Console.ReadLine());
                 if(s<=0){
-                    Console.WriteLine("Side should not be negative");
+                    Console.WriteLine("Side should not be zero or negative");
                 }
                 else{Maths obj2= new Maths(s);
                 float peri2=obj2.Cal_Perimeter(s);
@@ -38,7 +38,7 @@ namespace perimeter
                 s2=float.Parse(Console.ReadLine());
                 b=float.Parse(Console.ReadLine());
                 if(s1<=0 || s2<=0 || b<=0){
-                    Console.WriteLine("Neither of the sides nor the base can be negative");
+                    Console.WriteLine("Neither of the sides nor the base can be zero or negative");
                 }
                 else{Maths obj3= new Maths(s1,s2,b);
                 float peri3=obj3.Cal_Perimeter(s1,s2,b);
